@@ -31,7 +31,7 @@ htmlcov/
 # own
 .env_file
 venv/
-token
 save/
+token
 new_user_credentials
 new-user-1_accessKeys

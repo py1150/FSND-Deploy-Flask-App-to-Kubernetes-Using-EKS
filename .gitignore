@@ -30,6 +30,7 @@ htmlcov/
 
 # own
 .env_file
+/venv/
 venv/
 save/
 token
